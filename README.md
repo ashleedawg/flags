@@ -1,4 +1,4 @@
-# National FLAG Icons (Ultra-compressed)
+# Official Country FLAG Icons (Ultra-compressed)
 World Flag Icons (options like png vs base64, css vs php array, etc) - flags for "every' country and territory (free to use)
 
 ```
