@@ -1,6 +1,18 @@
 # Official Country FLAG Icons (Ultra-compressed)
 World Flag Icons (options like png vs base64, css vs php array, etc) - flags for "every' country and territory (free to use)
 
+
+#### URL's:
+- Link\* to images using shortened URL like: [`https://tinyurl.com/flagzz/AU.png`](https://tinyurl.com/flagzz/AU.png)  
+- ...or to the full (non-redirected) URL like: [`https://raw.githubusercontent.com/ashleedawg/flags/master/AU.png`](https://raw.githubusercontent.com/ashleedawg/flags/master/AU.png)  
+- Use 2-letter capitalized ([ISO 3166-1 alpha-2](https://wikipedia.org/wiki/ISO_3166-1_alpha-2)) country code like above, 
+- ...or specify country name (lowercase, without spaces) like: [`https://tinyurl.com/flagzz/australia.png`](https://tinyurl.com/flagzz/australia.png)
+- Either will return an image like: ![AU](https://raw.githubusercontent.com/ashleedawg/flags/master/AU.png)  
+
+
+
+---
+
 ```
 <!DOCTYPE html>
 <html>
@@ -270,3 +282,7 @@ World Flag Icons (options like png vs base64, css vs php array, etc) - flags for
 </body>
 </html>
 ```
+
+
+
+\*_(I haven't looked up Git's hotlinking policy, so there might be rules you need to follow!)_
